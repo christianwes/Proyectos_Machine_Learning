@@ -9,5 +9,5 @@ El objetivo es predecir el valor de las propiedades en la ciudad de Buenos Aires
 El objetivo es analizar el flujo vehicular de la autopista Illia y predecir el mismo para el ultimo trimestre de 2019, utilizando los datos de los años 2017, 2018 y 2019 brindados por el Gobierno de la Ciudad de Buenos Aires.
 En una segunda etapa se utilizó la libreria Alphabet para analizar las mejoras que pueda aportar y se aplicó un tratamiento para los outilers detectados en la serie.
 
-3- [Determinacion de Tweets con o sin contenido racista/sexista - NLP]
+3- [Determinacion de Tweets con o sin contenido racista/sexista - NLP](https://github.com/christianwes/twees_nlp)
 En el presente proyecto se utilizará un dataset que consta de tweets en idioma inglés con una etiqueta 0 / 1 que indica si un tweet es racista/sexista (1) o su temática no lo es (0) .Se proponen 2 modelos para determinar la etiqueta de un tweet a partir de las palabras que lo conforman: Clasificador Bayesiano y LSTM
